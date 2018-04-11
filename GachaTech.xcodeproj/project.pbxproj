@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		840C13582078AE3500715A95 /* bg_blue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C13492078AE3500715A95 /* bg_blue@2x.png */; };
+		840C13592078AE3500715A95 /* bg_gold@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C134A2078AE3500715A95 /* bg_gold@2x.png */; };
+		840C135A2078AE3500715A95 /* gacha@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C134B2078AE3500715A95 /* gacha@2x.png */; };
+		840C135B2078AE3500715A95 /* bg_red@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C134C2078AE3500715A95 /* bg_red@2x.png */; };
+		840C135C2078AE3500715A95 /* monster005.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C134E2078AE3500715A95 /* monster005.png */; };
+		840C135D2078AE3500715A95 /* monster010.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C134F2078AE3500715A95 /* monster010.png */; };
+		840C135E2078AE3500715A95 /* monster004.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C13502078AE3500715A95 /* monster004.png */; };
+		840C135F2078AE3500715A95 /* monster006.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C13512078AE3500715A95 /* monster006.png */; };
+		840C13602078AE3500715A95 /* monster007.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C13522078AE3500715A95 /* monster007.png */; };
+		840C13612078AE3500715A95 /* monster003.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C13532078AE3500715A95 /* monster003.png */; };
+		840C13622078AE3500715A95 /* monster002.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C13542078AE3500715A95 /* monster002.png */; };
+		840C13632078AE3500715A95 /* monster001.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C13552078AE3500715A95 /* monster001.png */; };
+		840C13642078AE3500715A95 /* monster009.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C13562078AE3500715A95 /* monster009.png */; };
+		840C13652078AE3500715A95 /* monster008.png in Resources */ = {isa = PBXBuildFile; fileRef = 840C13572078AE3500715A95 /* monster008.png */; };
 		84990776206F6488001985CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84990775206F6488001985CD /* AppDelegate.swift */; };
 		84990778206F6488001985CD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84990777206F6488001985CD /* ViewController.swift */; };
 		8499077B206F6488001985CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84990779206F6488001985CD /* Main.storyboard */; };
@@ -14,6 +28,7 @@
 		84990780206F6488001985CD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8499077E206F6488001985CD /* LaunchScreen.storyboard */; };
 		8499078B206F6488001985CD /* GachaTechTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8499078A206F6488001985CD /* GachaTechTests.swift */; };
 		84990796206F6488001985CD /* GachaTechUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84990795206F6488001985CD /* GachaTechUITests.swift */; };
+		849907A6206F6AEC001985CD /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 849907A5206F6AEC001985CD /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +49,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		840C13492078AE3500715A95 /* bg_blue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_blue@2x.png"; sourceTree = "<group>"; };
+		840C134A2078AE3500715A95 /* bg_gold@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_gold@2x.png"; sourceTree = "<group>"; };
+		840C134B2078AE3500715A95 /* gacha@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gacha@2x.png"; sourceTree = "<group>"; };
+		840C134C2078AE3500715A95 /* bg_red@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_red@2x.png"; sourceTree = "<group>"; };
+		840C134E2078AE3500715A95 /* monster005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster005.png; sourceTree = "<group>"; };
+		840C134F2078AE3500715A95 /* monster010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster010.png; sourceTree = "<group>"; };
+		840C13502078AE3500715A95 /* monster004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster004.png; sourceTree = "<group>"; };
+		840C13512078AE3500715A95 /* monster006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster006.png; sourceTree = "<group>"; };
+		840C13522078AE3500715A95 /* monster007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster007.png; sourceTree = "<group>"; };
+		840C13532078AE3500715A95 /* monster003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster003.png; sourceTree = "<group>"; };
+		840C13542078AE3500715A95 /* monster002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster002.png; sourceTree = "<group>"; };
+		840C13552078AE3500715A95 /* monster001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster001.png; sourceTree = "<group>"; };
+		840C13562078AE3500715A95 /* monster009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster009.png; sourceTree = "<group>"; };
+		840C13572078AE3500715A95 /* monster008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = monster008.png; sourceTree = "<group>"; };
 		84990772206F6488001985CD /* GachaTech.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GachaTech.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84990775206F6488001985CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84990777206F6488001985CD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +76,7 @@
 		84990791206F6488001985CD /* GachaTechUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GachaTechUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84990795206F6488001985CD /* GachaTechUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GachaTechUITests.swift; sourceTree = "<group>"; };
 		84990797206F6488001985CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		849907A5206F6AEC001985CD /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +104,44 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		840C13472078AE3500715A95 /* GachaResources */ = {
+			isa = PBXGroup;
+			children = (
+				840C13482078AE3500715A95 /* background */,
+				840C134D2078AE3500715A95 /* monster */,
+			);
+			name = GachaResources;
+			path = "../../../ホーム/GachaTech/GachaTech/GachaResources";
+			sourceTree = "<group>";
+		};
+		840C13482078AE3500715A95 /* background */ = {
+			isa = PBXGroup;
+			children = (
+				840C13492078AE3500715A95 /* bg_blue@2x.png */,
+				840C134A2078AE3500715A95 /* bg_gold@2x.png */,
+				840C134B2078AE3500715A95 /* gacha@2x.png */,
+				840C134C2078AE3500715A95 /* bg_red@2x.png */,
+			);
+			path = background;
+			sourceTree = "<group>";
+		};
+		840C134D2078AE3500715A95 /* monster */ = {
+			isa = PBXGroup;
+			children = (
+				840C134E2078AE3500715A95 /* monster005.png */,
+				840C134F2078AE3500715A95 /* monster010.png */,
+				840C13502078AE3500715A95 /* monster004.png */,
+				840C13512078AE3500715A95 /* monster006.png */,
+				840C13522078AE3500715A95 /* monster007.png */,
+				840C13532078AE3500715A95 /* monster003.png */,
+				840C13542078AE3500715A95 /* monster002.png */,
+				840C13552078AE3500715A95 /* monster001.png */,
+				840C13562078AE3500715A95 /* monster009.png */,
+				840C13572078AE3500715A95 /* monster008.png */,
+			);
+			path = monster;
+			sourceTree = "<group>";
+		};
 		84990769206F6488001985CD = {
 			isa = PBXGroup;
 			children = (
@@ -97,9 +165,11 @@
 		84990774206F6488001985CD /* GachaTech */ = {
 			isa = PBXGroup;
 			children = (
+				840C13472078AE3500715A95 /* GachaResources */,
 				84990775206F6488001985CD /* AppDelegate.swift */,
 				84990777206F6488001985CD /* ViewController.swift */,
 				84990779206F6488001985CD /* Main.storyboard */,
+				849907A5206F6AEC001985CD /* ResultViewController.swift */,
 				8499077C206F6488001985CD /* Assets.xcassets */,
 				8499077E206F6488001985CD /* LaunchScreen.storyboard */,
 				84990781206F6488001985CD /* Info.plist */,
@@ -233,8 +303,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				84990780206F6488001985CD /* LaunchScreen.storyboard in Resources */,
+				840C13582078AE3500715A95 /* bg_blue@2x.png in Resources */,
+				840C13652078AE3500715A95 /* monster008.png in Resources */,
 				8499077D206F6488001985CD /* Assets.xcassets in Resources */,
+				840C135E2078AE3500715A95 /* monster004.png in Resources */,
+				840C135D2078AE3500715A95 /* monster010.png in Resources */,
 				8499077B206F6488001985CD /* Main.storyboard in Resources */,
+				840C135B2078AE3500715A95 /* bg_red@2x.png in Resources */,
+				840C135C2078AE3500715A95 /* monster005.png in Resources */,
+				840C13642078AE3500715A95 /* monster009.png in Resources */,
+				840C13622078AE3500715A95 /* monster002.png in Resources */,
+				840C13632078AE3500715A95 /* monster001.png in Resources */,
+				840C13592078AE3500715A95 /* bg_gold@2x.png in Resources */,
+				840C13612078AE3500715A95 /* monster003.png in Resources */,
+				840C135A2078AE3500715A95 /* gacha@2x.png in Resources */,
+				840C13602078AE3500715A95 /* monster007.png in Resources */,
+				840C135F2078AE3500715A95 /* monster006.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +345,7 @@
 			files = (
 				84990778206F6488001985CD /* ViewController.swift in Sources */,
 				84990776206F6488001985CD /* AppDelegate.swift in Sources */,
+				849907A6206F6AEC001985CD /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
